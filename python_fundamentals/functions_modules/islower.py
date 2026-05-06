@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 def islower(c):
-    for islower 
+    return ord(c) >= ord('a') and ord(c) <= ord ('z') 
